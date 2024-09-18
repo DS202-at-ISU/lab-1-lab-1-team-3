@@ -37,7 +37,8 @@ Nathan Cole-
 12.6- My changes appeared on the README on github.
 
 David Chan- 
-12.3 - Had to download Git first than inserted the URL 
+12.1 - Had to download Git first
+12.3 - Cloned the URL to R from Git 
 12.4 - Had a lot of errors for commit, did not let me save the changes or update the rmd file
 12.5 - Could not push to update in Git
 12.6 - Had to knit it to make a new file. Updated on README 

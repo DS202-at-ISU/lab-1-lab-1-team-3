@@ -23,7 +23,15 @@ clicked commit, the UI may have changed or the the instructions may be
 truncated. Needed to run a terminal command to get commit to work. 12.5-
 No Issue 12.6- No Issue test
 
-David Chan- 12.3 - Had to download Git first than inserted the URL
-12.4 - Had a lot of errors for commit, did not let me save the changes
-or update the rmd file 12.5 - Could not push to update in Git 12.6 - Had
-to knit it to make a new file. Updated on README
+“This is a line from RStudio” Nathan Cole- 12.1- Installed git,
+attemtped to introduce myself to git 12.2- Had no issues finding my
+teams repo on github. 12.3- Had no problems importing the git repo into
+rstudio. 12.4- Git would not let me commit at first because I did not
+introduce myself to git correctly the first time. I fixed that and then
+it let me commit. 12.5- Had no issues pushing changes online to github.
+12.6- My changes appeared on the README on github.
+
+David Chan- 12.1 - Had to download Git first 12.3 - Cloned the URL to R
+from Git 12.4 - Had a lot of errors for commit, did not let me save the
+changes or update the rmd file 12.5 - Could not push to update in Git
+12.6 - Had to knit it to make a new file. Updated on README
