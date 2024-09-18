@@ -24,22 +24,11 @@ Cameron Kraklio-
 12.4- Didn't see a stage button after clicking git until after I clicked commit, the UI may have changed or the the instructions may be truncated.
 Needed to run a terminal command to get commit to work.
 12.5- No Issue
-<<<<<<< HEAD
 12.6- No Issue test
-Hi 
-=======
-12.6- No Issue
-<<<<<<< HEAD
->>>>>>> a0a6cc376df293cf8922695b187c834a220c3045
-=======
 
+David Chan- 
+12.3 - Had to download Git first than inserted the URL 
+12.4 - Had a lot of errors for commit, did not let me save the changes or update the rmd file
+12.5 - Could not push to update in Git
+12.6 - No issue
 
-"This is a line from RStudio"
-Nathan Cole-
-12.1- Installed git, attemtped to introduce myself to git
-12.2- Had no issues finding my teams repo on github.
-12.3- Had no problems importing the git repo into rstudio.
-12.4- Git would not let me commit at first because I did not introduce myself to git correctly the first time. I fixed that and then it let me commit.
-12.5- Had no issues pushing changes online to github.
-12.6- My changes appeared on the README on github.
->>>>>>> 017f55e45b58cfb63013585acae902a0f02e6654

@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,14 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+“This is a line from RStudio” Cameron Kraklio- 12.3- no issues, straight
+forward 12.4- Didn’t see a stage button after clicking git until after I
+clicked commit, the UI may have changed or the the instructions may be
+truncated. Needed to run a terminal command to get commit to work. 12.5-
+No Issue 12.6- No Issue test
+
+David Chan- 12.3 - Had to download Git first than inserted the URL
+12.4 - Had a lot of errors for commit, did not let me save the changes
+or update the rmd file 12.5 - Could not push to update in Git 12.6 - No
+issue
