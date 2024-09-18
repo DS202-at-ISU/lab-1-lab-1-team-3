@@ -42,3 +42,9 @@ David Chan-
 12.5 - Could not push to update in Git
 12.6 - Had to knit it to make a new file. Updated on README 
 
+"This is a line from RStudio"
+Jacob Johnson-
+12.1- No issues, followed along installed and introduced myself ot git
+12.2- Had no issues
+12.3- Had no problems while importing the lab repo into RStudio
+12.4- 
