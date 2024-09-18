@@ -35,3 +35,9 @@ David Chan- 12.1 - Had to download Git first 12.3 - Cloned the URL to R
 from Git 12.4 - Had a lot of errors for commit, did not let me save the
 changes or update the rmd file 12.5 - Could not push to update in Git
 12.6 - Had to knit it to make a new file. Updated on README
+
+“This is a line from RStudio” Jacob Johnson- 12.1- No issues, followed
+along installed and introduced myself ot git 12.2- Had no issues 12.3-
+Had no problems while importing the lab repo into RStudio 12.4- No
+issues, didn’t have any errors on commit 12.5- No issues pushing local
+changes to github 12.6- Changes appeared on README file in github
