@@ -24,5 +24,9 @@ Cameron Kraklio-
 12.4- Didn't see a stage button after clicking git until after I clicked commit, the UI may have changed or the the instructions may be truncated.
 Needed to run a terminal command to get commit to work.
 12.5- No Issue
+<<<<<<< HEAD
 12.6- No Issue test
 Hi 
+=======
+12.6- No Issue
+>>>>>>> a0a6cc376df293cf8922695b187c834a220c3045
