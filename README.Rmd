@@ -25,3 +25,13 @@ Cameron Kraklio-
 Needed to run a terminal command to get commit to work.
 12.5- No Issue
 12.6- No Issue
+
+
+"This is a line from RStudio"
+Nathan Cole-
+12.1- Installed git, attemtped to introduce myself to git
+12.2- Had no issues finding my teams repo on github.
+12.3- Had no problems importing the git repo into rstudio.
+12.4- Git would not let me commit at first because I did not introduce myself to git correctly the first time. I fixed that and then it let me commit.
+12.5- Had no issues pushing changes online to github.
+12.6- My changes appeared on the README on github.
